@@ -1,7 +1,7 @@
 # Andela-Week3-Extra-Challenge
 
 
-A javascript program/function to find missing numbers from an array.
+A javascript program to find missing numbers from an array.
 
 Example
 
